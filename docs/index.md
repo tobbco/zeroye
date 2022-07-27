@@ -1,7 +1,6 @@
 ---
 home: true
 #heroImage: https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220720_132208.png
-tagline: Vdoing博客主题模板
 heroText: Zeroye's blog
 tagline: Java后端技术博客，积跬步以至千里，致敬每个爱学习的你。
 #actionText: 开始浏览 →
