@@ -10,10 +10,6 @@ features: # 可选的
     details: Java、Redis、消息队列、Mysql、K8S、Docker、Spring boot、Spring Cloud框架等后端技术
     link: /web/ # 可选
     imgUrl: /img/web.png # 可选
-  - title: 页面
-    details: Java、Redis、消息队列、Mysql、K8S、Docker、Spring boot、Spring Cloud框架等后端技术
-    link: /ui/
-    imgUrl: /img/ui.png
   - title: 技术
     details: 技术文档、教程、技巧、总结等文章
     link: /technology/
